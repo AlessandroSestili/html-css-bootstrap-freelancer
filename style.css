@@ -1,0 +1,99 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* TOP NAV  */
+.top-nav {
+    background-color: rgb(48, 62, 79);
+
+    padding: 10px 0px;
+}
+
+.top-nav ul {
+    list-style: none;
+}
+
+.top-nav li {
+    display: inline-block;
+
+    padding: 0px 5px;
+}
+
+.top-nav a {
+    color: white;
+}
+
+
+
+/* START JUMBOTRON  */
+.start.jumbotron {
+    background-color: rgb(88, 185, 158);
+}
+
+.start.jumbotron .img-jumbo {
+    height: 100px;
+    /* cancella  */
+
+    border: 1px solid white;
+}
+
+
+
+/* PORTFOLIO JUMBOTRON  */
+.portfolio.jumbotron {
+    background-color: white;
+
+    margin-bottom: 0;
+}
+
+.nested-img {
+    height: 200px;
+    border: 1px solid black;
+}
+
+
+
+/* ABOUT JUMBOTRON  */
+.about.jumbotron {
+    background-color: rgb(88, 185, 158);
+
+    margin-bottom: 0;
+}
+
+
+
+
+/* CONTACT JUMBOTRON  */
+.contact.jumbotron {
+    background-color: white;
+}
+
+
+.top-footer {
+    background-color: rgb(63, 82, 106);
+}
+
+
+
+/* BOTTOM FOOTER  */
+.bottom-footer {
+    background-color:rgb(48, 62, 79); 
+
+    padding-bottom: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
