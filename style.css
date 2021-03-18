@@ -69,6 +69,9 @@ section {
 
 
 
+
+
+
 .bg-dark {
     background-color:#3a546d;
 }
@@ -88,6 +91,46 @@ section {
 .text-green {
     color: #1abc9c;
 }
+
+.star-container {
+    max-width: 300px;
+
+    padding: 10px 0;
+}
+
+.white.line {
+    border: 3px solid white;
+    width:calc(50% - 20px) ;
+    border-radius: 5px;
+
+    display: inline-block;
+
+    vertical-align: middle;
+}
+
+.black.line {
+    border: 3px solid black;
+    width:calc(50% - 20px) ;
+    border-radius: 5px;
+
+    display: inline-block;
+
+    vertical-align: middle;
+}
+
+
+
+.star {
+    display: inline-block;
+
+    font-size: 30px;
+
+    vertical-align:middle;
+}
+
+
+
+
 
 
 
